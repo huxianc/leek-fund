@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.24.0](https://github.com/LeekHub/leek-fund/compare/v3.23.1...v3.24.0) (2026-04-23)
+
+
+### Features
+
+* 基金金额设置页面支持搜索快速定位 ([8b51a57](https://github.com/LeekHub/leek-fund/commit/8b51a5735e53e113077eccbd24ad32b8d72eb203))
+
 ### [3.23.1](https://github.com/LeekHub/leek-fund/compare/v3.21.4...v3.23.1) (2026-04-01)
 
 
