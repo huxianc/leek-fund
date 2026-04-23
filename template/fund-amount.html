@@ -44,6 +44,8 @@
         margin-top: 0;
         padding: 10px 8px;
         scroll-margin-top: 110px;
+        border: 1px solid transparent;
+        border-radius: 8px;
       }
       .el-input {
         width: 160px;
@@ -55,11 +57,12 @@
         background-color: #eee;
       }
       .main {
-        margin: 20px auto 0;
+        margin: 0 auto;
         width: 980px;
         padding: 0px 32px 32px;
       }
       .header-row {
+        padding-top: 20px;
         display: flex;
         justify-content: space-between;
         align-items: flex-start;
@@ -67,7 +70,7 @@
         margin-left: 0;
         margin-bottom: 20px;
         position: sticky;
-        top: 20px;
+        top: 0;
         z-index: 100;
         background-color: var(--vscode-editor-background);
       }
@@ -141,8 +144,7 @@
         color: #ffffff;
       }
       .search-item-active {
-        outline: 1px solid #409eff;
-        border-radius: 4px;
+        border-color: #409eff;
       }
       .footer {
         width: 560px;
